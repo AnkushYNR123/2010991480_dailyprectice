@@ -1,0 +1,42 @@
+/* body {
+    background: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
+    font-size: 1.15em;
+    text-align: justify;
+    font-family: "Lato", sans-serif;
+}
+
+#title {
+    color: rgb(186, 133, 9);
+    font-family: "Sarabun", sans-serif;
+} */
+
+
+/* body {
+    font-size: 40px;
+}
+
+#divMain {
+    font-size: 32px;
+}
+
+#div1 {
+    font-size: 2em;
+}
+
+#div2 {
+    font-size: 2rem;
+} */
+
+tr #th1heading {
+    background-color: bisque;
+    color: tomato;
+}
+
+table {
+    border: 1px solid red;
+}
+
+th,
+td {
+    border: 1px solid red;
+}
