@@ -1,0 +1,16 @@
+---------------------------------------------------------CSS------------------------------------------------------------------------------
+
+{Inline insertion--- Example (50 pages ka h1 change krna ho ) 
+    Internal insertion--particular tag or div ...
+    External insertion----alag alag page me krni ho agar
+}
+
+1. dearrange perticular element 
+2. how to present a document(resize)
+3. change color
+
+
+selector{
+
+        id--particular
+        class--

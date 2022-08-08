@@ -1,0 +1,19 @@
+client(Frontend)     server(Backend)
+HTML, Css , js          Node,Java-Spring, PHP, Python 
+
+
+
+              Database
+
+
+
+
+name="personName"  ---  name used for backend and id="personName" --- id is used for frontend (html,css,js)
+
+
+method="get"  --- second page pe jayegi through url (url caractor)  'data show on url'
+
+method="post"  --- data not show on url (ex-- gmail login)
+
+
+value="chitkara" --- default value and placeholder is defferent from value 
