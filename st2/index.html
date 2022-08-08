@@ -86,7 +86,7 @@
     function sumDigits() {
         var num = document.getElementById("b").value,
             sum = 0;
-        if (num == "") alert("Enter a 5 digit number");
+        if (num == "" || isNaN(num)) alert("Enter a 5 digit number");
         if (num > 99999) {
             alert("Number must be 5 Digit")
         } else if (num <= 9999) {
